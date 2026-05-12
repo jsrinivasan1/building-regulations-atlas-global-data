@@ -2,7 +2,6 @@
 
 A global interactive atlas of building regulatory environments, developed by the World Bank Group's Development Economics Global Indicators Group (DECIG). The atlas harmonizes data from four complementary datasets covering 152 economies, providing a unified view of building codes, energy efficiency standards, planning requirements, inspection processes, and transparency mechanisms.
 
-**Live site:** [africa-building-regulations-atlas1.netlify.app](https://africa-building-regulations-atlas1.netlify.app/)
 
 ---
 
